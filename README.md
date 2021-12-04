@@ -2,9 +2,9 @@
 
 An Application to detect whether an sms is spam or ham.
 
-# Link to the Application: https://spam-classifier-sms.herokuapp.com/
+## Link to the Application: https://spam-classifier-sms.herokuapp.com/
 
-# Dataset Source:https://www.kaggle.com/uciml/sms-spam-collection-dataset
+## Dataset Source:https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 # Context:
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
